@@ -1,6 +1,6 @@
 ## 使用建议
 
--  ![batch download icon](https://api.iconify.design/ph:download-fill.svg)下载
+- ![batch download icon](https://api.iconify.design/ph:download-fill.svg)下载
   - 单独下载建议使用多线程下载器
   - 批量下载/搬运可使用[rclone](https://rclone.org/)
 - ![stream icon](https://api.iconify.design/material-symbols:youtube-tv.svg)视频在线观看
